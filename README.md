@@ -6,7 +6,7 @@ Audio/video synth controlled by physical nodes.
 Requirements
 -----
 Linux with OpenCV 2.4.9 installed. See 
-[installing OpenCV](OpenCV](http://docs.opencv.org/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
+[installing OpenCV](http://docs.opencv.org/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
 
 Build and Run
 ----
